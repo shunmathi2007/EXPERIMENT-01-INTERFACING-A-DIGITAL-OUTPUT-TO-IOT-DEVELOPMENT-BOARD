@@ -315,8 +315,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
+EXP-1A
 <img width="960" height="1280" alt="WhatsApp Image 2026-08-13 at 11 47 18 PM" src="https://github.com/user-attachments/assets/663bff5e-1a59-47cc-86d3-6477eb186e44" />
 <img width="960" height="1280" alt="WhatsApp Image 2026-08-13 at 11 47 18 PM (1)" src="https://github.com/user-attachments/assets/8d9c8928-3d97-49ef-a38d-760ea2b88820" />
+
+EX-1B
+<img width="960" height="1280" alt="WhatsApp Image 2026-08-23 at 11 04 52 PM" src="https://github.com/user-attachments/assets/1eba48c6-941d-4395-bcca-65d69d881752" />
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-08-23 at 11 04 52 PM (1)" src="https://github.com/user-attachments/assets/8936e13e-e793-408c-aa30-75d8cb0a4d6c" />
+
+
 
 
 ## Result
